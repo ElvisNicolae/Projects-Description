@@ -1,6 +1,6 @@
 # Projects
 
-GreatFilms
+[a relative link](GreatFilms.md)
 LiveTalk
 RestAndEat
 Appify
