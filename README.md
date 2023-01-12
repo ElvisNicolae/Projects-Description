@@ -1,6 +1,6 @@
 # Projects
 
-[a relative link](GreatFilms.md)
-LiveTalk
-RestAndEat
-Appify
+*[GreatFilms](GreatFilms.md)
+*[LiveTalk](LiveTalk.md)
+*[RestAndEat](RestAndEat.md)
+*[Appify](Appify.md)
